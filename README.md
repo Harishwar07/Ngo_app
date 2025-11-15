@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Ngo_webapp
-||||||| (empty tree)
-=======
 # NGO Web App — README
 
 This document explains how to install dependencies and run the **frontend** and **backend** of the project.
@@ -106,4 +102,3 @@ npm start
 ```
 
 ---
->>>>>>> 5fd0a65c (Initial commit)
