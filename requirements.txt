@@ -1,0 +1,43 @@
+# ============================
+# Backend (Node.js + Express)
+# ============================
+
+express
+pg
+pg-pool
+dotenv
+bcrypt
+jsonwebtoken
+cookie-parser
+helmet
+cors
+express-rate-limit
+uuid
+morgan
+fs
+https
+razorpay
+multer
+joi
+nodemon
+
+# ============================
+# Frontend (Angular)
+# ============================
+
+@angular/animations
+@angular/common
+@angular/compiler
+@angular/core
+@angular/forms
+@angular/platform-browser
+@angular/platform-browser-dynamic
+@angular/router
+rxjs
+zone.js
+@angular/cli
+@angular/compiler-cli
+typescript
+bootstrap
+@angular/material
+@angular/common/http
